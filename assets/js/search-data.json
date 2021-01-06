@@ -39,8 +39,8 @@
 
   
       ,"page1": {
-          "title": "About Me",
-          "content": "This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "title": "About",
+          "content": "We are a group of four students from Aalborg University studying Social Data Science for our 9. semester. .",
           "url": "https://binder2312.github.io/M4-Project/about/",
           "relUrl": "/about/",
           "date": ""
